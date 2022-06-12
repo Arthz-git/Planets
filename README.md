@@ -1,1 +1,1 @@
-# thePlanets
+# Planets
