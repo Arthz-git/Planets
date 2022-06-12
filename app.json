@@ -1,0 +1,19 @@
+{
+	"expo": {
+		"name": "Planets",
+		"slug": "Planets",
+		"version": "1.0.0",
+		"assetBundlePatterns": [
+			"**/*"
+		],
+		"icon": "./src/assets/images/app_icon.png",
+		"splash": {
+			"image": "./src/assets/images/splash_screen.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#070724"
+		},
+		"android": {
+			"package": "com.arthur.xuxu.Planets"
+		}
+	}
+}
